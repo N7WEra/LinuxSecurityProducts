@@ -1,6 +1,6 @@
 # LinuxSecurityProducts
 
-|     **Product**                     | **    Service name**        | **    Process name** | **    Notes**                                                                                                                         | **    Version file   **                                                          |
+|     **Product**                     |     Service name        |     Process name |     Notes                                                                                                                         |     Version file                                                             |
 |-------------------------------------|-----------------------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 |     Bitdefender                     |     bdsec*                  |                      |     https://www.bitdefender.com/business/support/en/77209-157515-bitdefender-endpoint-security-tools-for-linux-quick-start-guide.html |                                                                                  |
 |     CrowdStrike                     |     falcon-sensor.service   |     falcon-sensor    |     https://www.crowdstrike.com/blog/tech-center/install-falcon-sensor-for-linux/                                                     |     /opt/CrowdStrike/falconctl —version                                          |
